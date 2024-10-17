@@ -53,7 +53,8 @@
 
 
 ## Output:
-![Uploading 373847389-43c518cc-1707-48f9-ae44-0c985316dbca.png…]()
+
+![373848103-1f341eea-0802-4185-a036-5c998ae76a7c](https://github.com/user-attachments/assets/bbe9a4fe-9d52-47e3-a7fb-fdb46e9708ed)
 
 ### Name: Vikamuhan reddy n
 ### Register Number: 212223240181
