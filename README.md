@@ -53,10 +53,10 @@
 
 
 ## Output:
+![Uploading 373847389-43c518cc-1707-48f9-ae44-0c985316dbca.png…]()
 
-
-### Name:
-### Register Number: 
+### Name: Vikamuhan reddy n
+### Register Number: 212223240181
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
